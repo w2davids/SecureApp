@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="passsword_length">4</integer>
+    <integer name="failed_attempts">3</integer>
+    <integer name="one_minute_millisec">60000</integer>
+</resources>
